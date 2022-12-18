@@ -36,7 +36,10 @@
 <!-- TOC -->
 
 ## Git 주소
-https://github.com/vl0011/oss-final-project
+본 프로젝트: https://github.com/vl0011/oss-final-project  
+
+부트스트렙 학습 프로젝트: https://github.com/vl0011/learn-bootstrap  
+(관리자 콘솔 페이지 클론코딩) 
 
 ## 시연영상
 OBS 설정 문제로 영상을 나누어 짧게 녹화점 죄송합니다.  
@@ -128,6 +131,8 @@ Bootstrap의 스타일과 다양한 컴포넌트를 사용 했습니다.
 }
 ```
 
+본 프로젝트는 `Nuxt 3 Minimal Starter` 와 `NiceAdmin` 을 기반해서 만들었습니다.
+
 ## 웹 사이트의 주요 기능
 1. 유저 회원가입, 로그인 기능
 2. 부트스트랩을 사용한 반응형 웹
@@ -139,7 +144,7 @@ Bootstrap의 스타일과 다양한 컴포넌트를 사용 했습니다.
 5. 메모에 이미지 첨부 가능
 6. ...
 
-## 코드 요약
+## 프로젝트 구성
 ![img.png](img.png)  
 프로젝트는 다음 폴더로 구성되어 있습니다.
 - .nuxt: Nuxt3의 개발용, 빌드용 임시 파일
